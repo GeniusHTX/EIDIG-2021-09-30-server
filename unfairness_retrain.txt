@@ -1,0 +1,21 @@
+D:\Anaconda3\envs\EIDIG\python.exe "E:/科研相关/软件测试/Research_Direction/Unfairness/Efficient White-Box Fairness Testing through Gradient Search/reproduction/EIDIG/EIDIG-2021-09-30-server/_htx/fairness_evaluation_htx.py"
+2021-10-04 00:17:43.963700: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-10-04 00:17:44.670356: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1510] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 1340 MB memory:  -> device: 0, name: GeForce MX230, pci bus id: 0000:01:00.0, compute capability: 6.1
+我正在进入函数：measure_discrimination_specified_model
+Percentage of discriminatory instances for model:
+
+C-a :
+我正在进入函数 ids_percentage.
+我正在执行 ids_percentage.
+The percentage of individual discriminatory instances with .95 confidence: 0.09277200000000001 ± 0.0006048629863498014
+C-r :
+我正在进入函数 ids_percentage.
+我正在执行 ids_percentage.
+The percentage of individual discriminatory instances with .95 confidence: 0.040587 ± 0.000379113402158246
+C-g :
+我正在进入函数 ids_percentage.
+我正在执行 ids_percentage.
+The percentage of individual discriminatory instances with .95 confidence: 0.026451 ± 0.0002759704360687934
+
+Process finished with exit code 0
